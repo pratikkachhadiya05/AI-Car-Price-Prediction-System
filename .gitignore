@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables & secrets (NEVER commit these)
+.env
+.flaskenv
+instance/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python packaging and distributions
+dist/
+build/
+*.egg-info/
+
+# Databases (SQLite / Local development DBs)
+*.db
+*.sqlite3
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
