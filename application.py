@@ -54,6 +54,7 @@ def predict():
             except Exception as e:
                 error = f"Couldn't generate a prediction for that combination: {e}"
 
+
     return render_template(
         'predict.html',
         companies=companies,
