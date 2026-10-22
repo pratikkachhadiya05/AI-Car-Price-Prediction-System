@@ -83,11 +83,6 @@ AI-Car-Price-Prediction-System/
 - R2 Score: [add score]
 - MAE: [add value]
 
-## Future Improvements
-
-- Add more car details for better accuracy
-- Build a simple web page for users
-- Deploy the app online
 
 ## Author
 
